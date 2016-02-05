@@ -1,0 +1,10 @@
+{
+  "name": "cal-api",
+  "version": "1.0.0",
+  "description": "simple example",
+  "author": "Mayara Rysia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
